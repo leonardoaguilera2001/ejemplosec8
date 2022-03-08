@@ -1,2 +1,2 @@
-# ejemplosec8
+# ejemplo uso del git
 ejemplo github
